@@ -1,0 +1,5 @@
+{
+  "name": "Mini Bomberman",
+  "description": "A full-featured, production-quality 2D grid bomber game with procedural maps, enemy AI, and power-ups.",
+  "requestFramePermissions": []
+}
